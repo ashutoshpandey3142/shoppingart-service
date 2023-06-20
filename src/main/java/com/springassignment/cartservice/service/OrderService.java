@@ -1,7 +1,7 @@
-package com.springassignment.orderservice.service;
+package com.springassignment.cartservice.service;
 
-import com.springassignment.orderservice.dto.OrderRequestDto;
-import com.springassignment.orderservice.model.Order;
+import com.springassignment.cartservice.dto.OrderRequestDto;
+import com.springassignment.cartservice.model.Order;
 
 import java.util.List;
 import java.util.Optional;

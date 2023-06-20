@@ -1,4 +1,4 @@
-package com.springassignment.orderservice.dto;
+package com.springassignment.cartservice.dto;
 
 import lombok.*;
 

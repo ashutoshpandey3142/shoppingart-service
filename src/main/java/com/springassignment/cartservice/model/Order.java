@@ -1,4 +1,4 @@
-package com.springassignment.orderservice.model;
+package com.springassignment.cartservice.model;
 
 import lombok.*;
 

@@ -1,8 +1,8 @@
-package com.springassignment.orderservice.controller;
+package com.springassignment.cartservice.controller;
 
-import com.springassignment.orderservice.dto.OrderRequestDto;
-import com.springassignment.orderservice.model.Order;
-import com.springassignment.orderservice.service.OrderService;
+import com.springassignment.cartservice.dto.OrderRequestDto;
+import com.springassignment.cartservice.model.Order;
+import com.springassignment.cartservice.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

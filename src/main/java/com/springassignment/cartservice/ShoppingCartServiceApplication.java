@@ -1,4 +1,4 @@
-package com.springassignment.orderservice;
+package com.springassignment.cartservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

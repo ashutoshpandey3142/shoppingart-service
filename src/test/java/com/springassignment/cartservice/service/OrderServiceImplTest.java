@@ -1,8 +1,8 @@
-package com.springassignment.orderservice.service;
+package com.springassignment.cartservice.service;
 
-import com.springassignment.orderservice.dto.OrderRequestDto;
-import com.springassignment.orderservice.model.Order;
-import com.springassignment.orderservice.repository.OrderRepository;
+import com.springassignment.cartservice.dto.OrderRequestDto;
+import com.springassignment.cartservice.model.Order;
+import com.springassignment.cartservice.repository.OrderRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;
